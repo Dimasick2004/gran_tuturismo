@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\final_ochcka\final_ochcka\bin\Debug\final_ochcka.exe.config
+C:\Users\User\source\repos\final_ochcka\final_ochcka\bin\Debug\final_ochcka.exe
+C:\Users\User\source\repos\final_ochcka\final_ochcka\bin\Debug\final_ochcka.pdb
+C:\Users\User\source\repos\final_ochcka\final_ochcka\obj\Debug\final_ochcka.csprojAssemblyReference.cache
+C:\Users\User\source\repos\final_ochcka\final_ochcka\obj\Debug\final_ochcka.begin_menu.resources
+C:\Users\User\source\repos\final_ochcka\final_ochcka\obj\Debug\final_ochcka.main_menu.resources
+C:\Users\User\source\repos\final_ochcka\final_ochcka\obj\Debug\final_ochcka.Properties.Resources.resources
+C:\Users\User\source\repos\final_ochcka\final_ochcka\obj\Debug\final_ochcka.csproj.GenerateResource.cache
+C:\Users\User\source\repos\final_ochcka\final_ochcka\obj\Debug\final_ochcka.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\final_ochcka\final_ochcka\obj\Debug\final_ochcka.exe
+C:\Users\User\source\repos\final_ochcka\final_ochcka\obj\Debug\final_ochcka.pdb
+C:\Users\User\source\repos\final_ochcka\final_ochcka\obj\Debug\final_ochcka.vibor.resources
+C:\Users\User\source\repos\final_ochcka\final_ochcka\obj\Debug\final_ochcka.race.resources
